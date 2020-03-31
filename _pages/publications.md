@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Sharon Levy, Kai Nakamura, William Yang Wang. "r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection" <i>To appear in The International Conference on Language Resources and Evaluation, 2020</i>. [[paper]](https://arxiv.org/abs/1911.03854)
