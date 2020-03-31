@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* University of California, Santa Barbara : 2017-Present
+* University of California, Santa Barbara : 2018-Present
   * Graduate Student Researcher
   * Advisor: William Wang
 
