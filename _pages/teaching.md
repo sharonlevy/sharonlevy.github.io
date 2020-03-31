@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-======
+
 * Teaching Assistant: University of California, Santa Barbara
   * CMPSC 165B, Introduction to Machine Learning
   * Fall 2019
