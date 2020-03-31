@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of California, Santa Barbara, 2018-Present
+* Ph.D. in Computer Science, University of California, Santa Barbara, 2018-Present
 * M.S. in Computer Science, University of California, Santa Barbara, 2018
 * B.S. in Computer Science, University of California, Santa Barbara, 2017
 
