@@ -11,6 +11,7 @@ author_profile: true
 * Teaching Assistant: University of California, Santa Barbara
   * CMPSC 165B, Introduction to Machine Learning
   * Fall 2019
+  * Department award: CS Outstanding Teaching Assistant
 
 * Graduate Student Mentor: University of California, Santa Barbara
   * Mentor to four undergraduate students as part of the CS Early Research Scholars Program
