@@ -19,6 +19,11 @@ Work experience
 * University of California, Santa Barbara : 2018-Present
   * Graduate Student Researcher
   * Advisor: William Wang
+ 
+* Pinterest: 2020
+  * Pinterest Labs Research Intern (PhD, Machine Learning)
+  * Mentor: Jacob Gao
+  * Manager: Longbin Chen
 
 * Akamai Technologies: 2017
   * Security Engineer Intern
