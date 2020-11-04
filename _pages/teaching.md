@@ -14,5 +14,5 @@ author_profile: true
   * Department award: CS Outstanding Teaching Assistant
 
 * Graduate Student Mentor: University of California, Santa Barbara
-  * Mentor to four undergraduate students as part of the CS Early Research Scholars Program
+  * Mentor to four undergraduate students as part of the NSF CS Early Research Scholars Program
   * Fall 2019 - Spring 2020
