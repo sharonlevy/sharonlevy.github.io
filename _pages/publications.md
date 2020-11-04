@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 - **Sharon Levy**, Kai Nakamura, William Yang Wang. "r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection". Proceedings of The 12th Language Resources and Evaluation Conference,</i> 2020. [[paper]](https://www.aclweb.org/anthology/2020.lrec-1.755/)
-- **Sharon Levy**, Wenhan Xiong, Elizabeth Belding, William Yang Wang. "SafeRoute: Learning to Navigate Streets Safely in an Urban Environment". To appear in ACM Transactions on Intelligent Systems and Technology 2020. [[paper]](https://arxiv.org/abs/1811.01147)
-- Sophie Groenwold, Lily Ou, Aesha Parekh, Samhita Honnavalli, **Sharon Levy**, Diba Mirza and William Yang Wang. "Investigating African-American Vernacular English in Transformer-Based Text Generation" To appear in Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Short Paper, ACL.
+- **Sharon Levy**, Wenhan Xiong, Elizabeth Belding, William Yang Wang. "SafeRoute: Learning to Navigate Streets Safely in an Urban Environment". In ACM Transactions on Intelligent Systems and Technology 2020. [[paper]](https://arxiv.org/abs/1811.01147)
+- Sophie Groenwold, Lily Ou, Aesha Parekh, Samhita Honnavalli, **Sharon Levy**, Diba Mirza and William Yang Wang. "Investigating African-American Vernacular English in Transformer-Based Text Generation" In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2020), Short Paper, ACL. [[paper]](https://arxiv.org/abs/2010.02510)
 
 Preprint
 ======
