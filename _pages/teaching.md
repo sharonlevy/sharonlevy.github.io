@@ -15,4 +15,4 @@ author_profile: true
 
 * Graduate Student Mentor: University of California, Santa Barbara
   * Mentor to four undergraduate students as part of the NSF CS Early Research Scholars Program
-  * Fall 2019 - Spring 2020
+  * Fall 2019 - Present
