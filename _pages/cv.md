@@ -16,6 +16,10 @@ Education
 
 Work experience
 ======
+* Facebook : 2021-Present
+  * Facebook AI Applied Research Intern
+  * Mentor: Yi-Chia Wang
+
 * University of California, Santa Barbara : 2018-Present
   * Graduate Student Researcher
   * Advisor: William Wang
