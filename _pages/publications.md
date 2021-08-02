@@ -4,7 +4,7 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
-- **Sharon Levy**, Michael Saxon, William Yang Wang. "Investigating Memorization of Conspiracy Theories in Text Generation". Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. [[paper]](https://aclanthology.org/2021.findings-acl.416/)
+- **Sharon Levy**, Michael Saxon, William Yang Wang. "Investigating Memorization of Conspiracy Theories in Text Generation". Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. [[paper]](https://aclanthology.org/2021.findings-acl.416/) [[blog post]](http://nlp.cs.ucsb.edu/blog/investigating-memorization-of-conspiracy-theories-in-text-generation.html)
 - Michael Saxon, **Sharon Levy**, Xinyi Wang, Alon Albalak, William Yang Wang. "Modeling Disclosive Transparency in NLP Application Descriptions". 2021. [[paper]](https://arxiv.org/abs/2101.00433)
 - **Sharon Levy**, Kai Nakamura, William Yang Wang. "r/Fakeddit: A New Multimodal Benchmark Dataset for Fine-grained Fake News Detection". Proceedings of The 12th Language Resources and Evaluation Conference (LREC), 2020. [[paper]](https://www.aclweb.org/anthology/2020.lrec-1.755/)
 - **Sharon Levy**, Wenhan Xiong, Elizabeth Belding, William Yang Wang. "SafeRoute: Learning to Navigate Streets Safely in an Urban Environment". In ACM Transactions on Intelligent Systems and Technology (TIST) 2020. [[paper]](https://arxiv.org/abs/1811.01147)
