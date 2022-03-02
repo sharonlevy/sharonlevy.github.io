@@ -4,6 +4,8 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
+- **Sharon Levy**, Robert E. Kraut, Jane A. Yu, Kristen M. Altenburger, Yi-Chia Wang. "Understanding Conflicts in Online Conversations". In Proceedings of the ACM Web Conference 2022 (WWW ’22).
+- Alon Albalak, **Sharon Levy**, William Yang Wang. "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains". [[paper]](https://arxiv.org/abs/2201.11153)
 - **Sharon Levy**, Kevin Mo, Wenhan Xiong, William Yang Wang. "Open-Domain Question-Answering for COVID-19 and Other Emergent Domains". In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP 2021). [[paper]](https://aclanthology.org/2021.emnlp-demo.30/)
 - Michael Saxon, **Sharon Levy**, Xinyi Wang, Alon Albalak, William Yang Wang. "Modeling Disclosive Transparency in NLP Application Descriptions". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2021), Long Paper, ACL. [[paper]](https://aclanthology.org/2021.emnlp-main.153/)
 - **Sharon Levy**, Michael Saxon, William Yang Wang. "Investigating Memorization of Conspiracy Theories in Text Generation". Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021. [[paper]](https://aclanthology.org/2021.findings-acl.416/) [[blog post]](http://nlp.cs.ucsb.edu/blog/investigating-memorization-of-conspiracy-theories-in-text-generation.html)
