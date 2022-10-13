@@ -17,11 +17,16 @@ Education
 Work experience
 ======
 
-* University of California, Santa Barbara : 2018-Present
+* University of California, Santa Barbara: 2018-Present
   * Graduate Student Researcher
   * Advisor: William Wang
-  
-* Facebook : 2021
+
+* AWS: 2022
+  * Applied Scientist Intern (Comprehend Team)
+  * Mentors: Neha Anna John and Ling Liu
+  * Manager: Vittorio Castelli
+
+* Facebook: 2021
   * Facebook AI Applied Research Intern (AI Integrity Team)
   * Mentor: Yi-Chia Wang
  
