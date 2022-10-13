@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at the University of California, Santa Barbara. I work in the NLP Group under Professor William Wang. My research focuses on machine learning and NLP, with an emphasis on computational social science. I currently work on problems relating to fairness in NLP and the spread of misinformation.
+I am a fifth-year Ph.D. student at the University of California, Santa Barbara. I work in the NLP Group under Professor William Wang. My research focuses on natural language processing, with an emphasis on Responsible AI. I currently work on problems relating to fairness, trustworthiness, and safety.
 
 
 ## Publications and Preprints
-- Samhita Honnavalli\*, Aesha Parekh\*, Lily Ou\*, Sophie Groenwold\*, **Sharon Levy**, Vicente Ordonez and William Yang Wang. “Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation”. Proceedings of The 13th Language Resources and Evaluation Conference (LREC 2022).
-- Kai Nakamura, **Sharon Levy**, Yi-Lin Tuan, Wenhu Chen, William Yang Wang. “HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data”. Findings of the Association for Computational Linguistics (ACL 2022). [[paper]](https://arxiv.org/abs/2204.13243)
+- **Sharon Levy**, Emily Allaway, Melanie Subbiah, Lydia Chilton, Desmond Patton, Kathleen McKeown and William Yang Wang. "SafeText:
+A Benchmark for Exploring Physical Safety in Language Models". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Long Paper, ACL.
+- Alex Mei, Anisha Kabir, **Sharon Levy**, Melanie Subbiah, Emily Allaway, John N. Judge, Desmond Patton, Bruce Bimber, Kathleen McKeown and William Yang Wang. "Mitigating Covertly Unsafe Text within Natural Language Systems". In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).
+- Samhita Honnavalli\*, Aesha Parekh\*, Lily Ou\*, Sophie Groenwold\*, **Sharon Levy**, Vicente Ordonez and William Yang Wang. “Towards Understanding Gender-Seniority Compound Bias in Natural Language Generation”. Proceedings of The 13th Language Resources and Evaluation Conference (LREC 2022). [[paper]](https://aclanthology.org/2022.lrec-1.177/)
+- Kai Nakamura, **Sharon Levy**, Yi-Lin Tuan, Wenhu Chen, William Yang Wang. “HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data”. Findings of the Association for Computational Linguistics (ACL 2022). [[paper]](https://aclanthology.org/2022.findings-acl.41/)
 - **Sharon Levy**, Robert E. Kraut, Jane A. Yu, Kristen M. Altenburger, Yi-Chia Wang. "Understanding Conflicts in Online Conversations". In Proceedings of the ACM Web Conference 2022 (WWW ’22). [[paper]](https://dl.acm.org/doi/10.1145/3485447.3512131)
 - Alon Albalak, **Sharon Levy**, William Yang Wang. "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains". [[paper]](https://arxiv.org/abs/2201.11153)
 - **Sharon Levy**, Kevin Mo, Wenhan Xiong, William Yang Wang. "Open-Domain Question-Answering for COVID-19 and Other Emergent Domains". In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (EMNLP 2021). [[paper]](https://aclanthology.org/2021.emnlp-demo.30/)
