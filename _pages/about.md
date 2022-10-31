@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student at the University of California, Santa Barbara. I work in the NLP Group under Professor William Wang. My research focuses on natural language processing, with an emphasis on Responsible AI. I currently work on problems relating to fairness, trustworthiness, and safety.
+I am a fifth-year Ph.D. student at the University of California, Santa Barbara. I work in the NLP Group under Professor William Wang. My research focuses on natural language processing, with an emphasis on Responsible AI. I work on problems relating to fairness, trustworthiness, and safety.
+
+**I am on the faculty job market, seeking a tenure-track position!**
 
 
 ## Publications and Preprints
