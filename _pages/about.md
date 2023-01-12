@@ -14,6 +14,7 @@ I am a fifth-year Ph.D. student at the University of California, Santa Barbara. 
 
 
 ## Publications and Preprints
+- Alex Mei, **Sharon Levy**, William Yang Wang. "Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI". [[paper]](https://arxiv.org/abs/2212.09667)
 - **Sharon Levy**, Emily Allaway, Melanie Subbiah, Lydia Chilton, Desmond Patton, Kathleen McKeown and William Yang Wang. "SafeText:
 A Benchmark for Exploring Physical Safety in Language Models". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2022), Long Paper, ACL. [[paper]](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.154/)
 - Alex Mei\*, Anisha Kabir\*, **Sharon Levy**, Melanie Subbiah, Emily Allaway, John N. Judge, Desmond Patton, Bruce Bimber, Kathleen McKeown and William Yang Wang. "Mitigating Covertly Unsafe Text within Natural Language Systems". In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).[[paper]](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.211/)
