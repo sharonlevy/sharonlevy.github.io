@@ -4,7 +4,7 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
-- Alex Mei, **Sharon Levy**, William Yang Wang. "Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI". Findings of the Association for Computational Linguistics (ACL 2023)[[paper]](https://arxiv.org/abs/2212.09667)
+- Alex Mei*, **Sharon Levy***, William Yang Wang. "Foveate, Attribute, and Rationalize: Towards Safe and Trustworthy AI". Findings of the Association for Computational Linguistics (ACL 2023)[[paper]](https://arxiv.org/abs/2212.09667)
 - Matthew Ho\*, Aditya Sharma\*, Justin Chang\*, Michael Saxon, **Sharon Levy**, Yujie Lu and William Yang Wang. “WikiWhy: Answering and Explaining Cause-and-Effect Questions”. In Proceedings of the International Conference on Learning Representations (ICLR 2023), Oral Paper: Top 5% out of all 4019 submissions. [[paper]](https://arxiv.org/abs/2210.12152)
 - Alon Albalak, **Sharon Levy**, William Yang Wang. "Addressing Issues of Cross-Linguality in Open-Retrieval Question Answering Systems For Emergent Domains". In Proceedings of the 2023 Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations (EACL 2023)[[paper]](https://arxiv.org/abs/2201.11153)
 - **Sharon Levy**, Emily Allaway, Melanie Subbiah, Lydia Chilton, Desmond Patton, Kathleen McKeown and William Yang Wang. "SafeText:
