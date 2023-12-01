@@ -5,7 +5,7 @@ permalink: /prospective/
 author_profile: true
 ---
 
-I am currently receiving a high volume of emails regarding prospective students. I have written this page to address any questions you may have. If you have additional questions that I have not answered below, feel free to email me with the header [Prospective Student].
+Thank you for your interest in working with me! I am currently receiving a high volume of emails regarding prospective students. I have written this page to address any questions you may have. If you have additional questions that I have not answered below, feel free to email me with the header [Prospective Student].
 
 ## What do I work on?
 My area of research is Natural Language Processing (NLP). My main focus is on Responsible NLP, which encompasses several subfields in NLP. My work is very interdisciplinary and as a result, I have collaborated with researchers in public health, sociology, social work, and HCI. I have listed my research interests below:
