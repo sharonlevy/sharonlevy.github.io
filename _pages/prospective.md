@@ -5,11 +5,9 @@ permalink: /prospective/
 author_profile: true
 ---
 
-## Prospective Students
-
 I am currently receiving a high volume of emails regarding prospective students. I have written this page to address any questions you may have. If you have additional questions that I have not answered below, feel free to email me with the header [Prospective Student].
 
-### What do I work on?
+## What do I work on?
 My area of research is Natural Language Processing (NLP). My main focus is on Responsible NLP, which encompasses several subfields in NLP. My work is very interdisciplinary and as a result, I have collaborated with researchers in public health, sociology, social work, and HCI. I have listed my research interests below:
 
 1. **Fairness**: This focuses on detecting and mitigating social biases in natural language systems. I am especially interested in cross-cultural fairness issues, which may include biases in non-English and/or non-American settings. Some related papers include:
@@ -34,15 +32,15 @@ A Benchmark for Exploring Physical Safety in Language Models" (EMNLP 2022)[[pape
     - <sub>**Sharon Levy**, Robert E. Kraut, Jane A. Yu, Kristen M. Altenburger, Yi-Chia Wang. "Understanding Conflicts in Online Conversations" (WWW '22)[[paper]](https://dl.acm.org/doi/10.1145/3485447.3512131)<sub>
 
 
-### What is my advising style?
+## What is my advising style?
 I plan to work closely with my students and hold weekly 1-on-1s with each student. In addition to these meetings, I will also hold a weekly lab group in which students will provide updates on their progress in order to help form collaborations and overcome project difficulties. These meetings will also contain a reading group, where students will present interesting and relevant research papers that have been recently published to practice their presentation skills and stay up-to-date on current research. 
 
 
-### Prospective PhD Students
+## Prospective PhD Students
 If you are interested in working with me, please apply to the Rutgers CS department as a PhD student and specify my name as a potential advisor. 
-You can find more information [[here]](https://www.cs.rutgers.edu/academics/graduate/prospective-students)
+You can find more information [here](https://www.cs.rutgers.edu/academics/graduate/prospective-students).
 The deadline is January 1st. As I am receiving a high volume of emails, please do not email me with your CV. I will go through the applications once the deadline is over and if I see a good fit, I will contact you for an interview. 
 
-### Current Rutgers Students
+## Current Rutgers Students
 I will also be accepting students who currently study at Rutgers. If you are interested in working with me, please email me with the header [Current Rutgers Student] closer to the start of the Fall 2024 semester.
 
