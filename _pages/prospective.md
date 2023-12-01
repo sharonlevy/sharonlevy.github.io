@@ -33,7 +33,7 @@ A Benchmark for Exploring Physical Safety in Language Models" (EMNLP 2022)[[pape
 
 
 ## What is my advising style?
-I plan to work closely with my students and hold weekly 1-on-1s with each student. In addition to these meetings, I will also hold a weekly lab group in which students will provide updates on their progress in order to help form collaborations and overcome project difficulties. These meetings will also contain a reading group, where students will present interesting and relevant research papers that have been recently published to practice their presentation skills and stay up-to-date on current research. 
+I plan to work closely with my students and hold weekly 1-on-1s with each student. In addition to these meetings, I will also hold a weekly lab group meeting in which students will provide updates on their progress in order to help form collaborations and overcome project difficulties. These meetings will also contain a reading group, where students will present interesting and relevant research papers that have been recently published to practice their presentation skills and stay up-to-date on current research. 
 
 
 ## Prospective PhD Students
