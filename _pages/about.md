@@ -13,7 +13,7 @@ I am an Assistant Professor at [Rutgers University Computer Science](https://www
 Previously, I was a postdoctoral fellow at the Center for Language and Speech Processing (CLSP) at Johns Hopkins University, advised by Mark Dredze and Michelle Kaufman. I obtained my Ph.D. from the University of California Santa Barbara, where I worked with Professor William Wang. 
 
 
-If you are interested in working with me, please read my page on [prospective students](https://sharonlevy.github.io/prospective/).** 
+If you are interested in working with me, please read my page on [prospective students](https://sharonlevy.github.io/prospective/). 
 
 
 
