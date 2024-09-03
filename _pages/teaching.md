@@ -13,15 +13,16 @@ author_profile: true
   * Department award: CS Outstanding Teaching Assistant
 
 ## Guest Lectures
+* Johns Hopkins University, *Foundational Concepts in Gender and Health Data and their Application*, 2024
 * Megagon Labs, 2024
 * Laguna Blanca School, 2023
-* UCSB CS 190i, \textit{Introduction to Natural Language Processing}, 2023
+* UCSB CS 190i, *Introduction to Natural Language Processing*, 2023
 * Johns Hopkins University CLSP, 2023
 * Stanford University, 2023
 * UT Austin NLP Group, 2022
-* UCSB CS 165B, \textit{Introduction to Machine Learning}, 2022
+* UCSB CS 165B, *Introduction to Machine Learning*, 2022
 * Fakespeak Workshop, University of Oslo, 2021
-* UCSB INT 200, \textit{Seminar in Information Technology \& Society}, 2021
+* UCSB INT 200, *Seminar in Information Technology \& Society*, 2021
 * SBCC Computer Science Club, 2021.
 
 ## Mentoring
