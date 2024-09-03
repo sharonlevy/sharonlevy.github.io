@@ -10,14 +10,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of California, Santa Barbara, 2018-Present
+* Ph.D. in Computer Science, University of California, Santa Barbara, 2023
 * M.S. in Computer Science, University of California, Santa Barbara, 2018
 * B.S. in Computer Science, University of California, Santa Barbara, 2017
 
 Work experience
 ======
-
-* University of California, Santa Barbara: 2018-Present
+* Johns Hopkins University: 2023-2024
+  * Postdoctoral Fellow in the Center for Language and Speech Processing (CLSP)
+  * Advisors: Mark Dredze and Michelle Kaufman
+    
+* University of California, Santa Barbara: 2018-2023
   * Graduate Student Researcher
   * Advisor: William Wang
 
