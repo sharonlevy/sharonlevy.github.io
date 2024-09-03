@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sharon Levy"
 title_separator          : "-"
 name                     : &name "Sharon Levy"
-description              : &description "PhD student at the University of California, Santa Barbara"
+description              : &description "Assistant Professor at Rutgers University Computer Science"
 url                      : https://sharonlevy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sharonlevy.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sharon Levy"
   avatar           : "sharon_headshot_github.jpg"
-  bio              : "Postdoc at Johns Hopkins University"
+  bio              : "Assistant Professor at Rutgers University"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "slevy35@jh.edu"
+  email            : "s.levy@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sharonlevy"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
