@@ -4,7 +4,7 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
-- Michael Saxon\*, Yiran Luo\*, **Sharon Levy**, Chitta Baral, Yezhou Yang, William Yang Wang. "Lost in Translation? Translation Errors and Challenges for Fair Assessment of Text-to-Image Models on Multilingual Concepts". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024) [[paper]](https://aclanthology.org/2024.naacl-short.48.pdf)
+- Michael Saxon*, Yiran Luo*, **Sharon Levy**, Chitta Baral, Yezhou Yang, William Yang Wang. "Lost in Translation? Translation Errors and Challenges for Fair Assessment of Text-to-Image Models on Multilingual Concepts". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024) [[paper]](https://aclanthology.org/2024.naacl-short.48.pdf)
 - **Sharon Levy**, Tahilin Sanchez Karver, William D. Adler, Michelle R. Kaufman, Mark Dredze. "Evaluating Biases in Context-Dependent Health Questions". (2024) [[paper]](https://arxiv.org/abs/2403.04858)
 - **Sharon Levy**, Neha Anna John, Ling Liu, Yogarshi Vyas, Jie Ma, Yoshinari Fujinuma, Miguel Ballesteros, Vittorio Castelli, Dan Roth. "Comparing Biases and the Impact of Multilingual Training across Multiple Languages". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) [[paper]](https://aclanthology.org/2023.emnlp-main.634/)
 - Alex Mei*, **Sharon Levy**\*, William Yang Wang. "ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models". In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023) [[paper]](https://aclanthology.org/2023.findings-emnlp.388/)
