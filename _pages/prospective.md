@@ -42,5 +42,5 @@ You can find more information [here](https://www.cs.rutgers.edu/academics/gradua
 The deadline is January 1st. As I am receiving a high volume of emails, please do not email me with your CV. I will go through the applications once the deadline is over and if I see a good fit, I will contact you for an interview. 
 
 ## Current Rutgers Students
-I will also be accepting students who currently study at Rutgers. If you are interested in working with me, please email me with the header [Current Rutgers Student] closer to the start of the Fall 2024 semester.
+I will also be accepting students who currently study at Rutgers. If you are interested in working with me, please fill out this interest form (Coming Soon!). When a project becomes available, I will reach out for an interview if you are a good fit.
 
