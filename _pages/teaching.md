@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching
+## Courses
 * Co-Instructor: EN.601.867 Trustworthy and Responsible NLP, JHU, 2024
 * Teaching Assistant: CMPSC 165B Introduction to Machine Learning, UCSB, 2019
   * Department award: CS Outstanding Teaching Assistant
