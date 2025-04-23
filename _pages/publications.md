@@ -4,6 +4,7 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
+- Iain Xie Weissburg, Sathvika Anand, **Sharon Levy**, Haewon Jeong. "LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025) [[paper]](https://arxiv.org/pdf/2410.14012)
 - **Sharon Levy**, Tahilin Sanchez Karver, William D. Adler, Michelle R. Kaufman, Mark Dredze. "Evaluating Biases in Context-Dependent Sexual and Reproductive Health Questions". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [[paper]](https://aclanthology.org/2024.findings-emnlp.332/)
 - **Sharon Levy**, William D. Adler, Tahilin Sanchez Karver, Mark Dredze, Michelle R. Kaufman. "Gender Bias in Decision-Making with Large Language Models: A Study of Relationship Conflicts". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [[paper]](https://aclanthology.org/2024.findings-emnlp.331/)
 - Michael Saxon\*, Yiran Luo\*, **Sharon Levy**, Chitta Baral, Yezhou Yang, William Yang Wang. "Lost in Translation? Translation Errors and Challenges for Fair Assessment of Text-to-Image Models on Multilingual Concepts". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2024) [[paper]](https://aclanthology.org/2024.naacl-short.48.pdf)
