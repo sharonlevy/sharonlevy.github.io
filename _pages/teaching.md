@@ -16,7 +16,7 @@ author_profile: true
 ## Guest Lectures
 * Rutgers University, *An Ethical World:  Knowledge, Power, and Justice*, 2024
 * Montclair State University, *Discovering Implicit Social Biases in Large Language Models*, 2024
-* Johns Hopkins University, *Panel on Artificial Intelligence | Gender, Data & Equity: Expert Conversations*, 2024
+* Johns Hopkins University, *Panel on Artificial Intelligence - Gender, Data & Equity: Expert Conversations*, 2024
 * Johns Hopkins University, *Foundational Concepts in Gender and Health Data and their Application*, 2024
 * Megagon Labs, 2024
 * Laguna Blanca School, 2023
