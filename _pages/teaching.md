@@ -8,14 +8,19 @@ author_profile: true
 {% include base_path %}
 
 ## Courses
-* Instructor: 16:198:533 Natural Language Processing, Rutgers, Spring 2025
+* Instructor:
+    * 16:198:533 Natural Language Processing, Rutgers, Spring 2025, 2026
+    * 01:198:461 Machine Learning Principles, Rutgers, Fall 2025, 2026
 * Co-Instructor: EN.601.867 Trustworthy and Responsible NLP, JHU, Spring 2024
 * Teaching Assistant: CMPSC 165B Introduction to Machine Learning, UCSB, 2019
   * Department award: CS Outstanding Teaching Assistant
 
-## Guest Lectures
+## Invited Talks
+* Rutgers Center for Cognitive Science, 2026
+* University of Maryland College Park, 2026
+* Columbia University, 2026
 * Rutgers University, *An Ethical World:  Knowledge, Power, and Justice*, 2024
-* Montclair State University, *Discovering Implicit Social Biases in Large Language Models*, 2024
+* Montclair State University, 2024
 * Johns Hopkins University, *Panel on Artificial Intelligence - Gender, Data & Equity: Expert Conversations*, 2024
 * Johns Hopkins University, *Foundational Concepts in Gender and Health Data and their Application*, 2024
 * Megagon Labs, 2024
@@ -32,6 +37,8 @@ author_profile: true
 ## Mentoring
 * Fatima Jahara (Rutgers University PhD, 2024-Present)
 * Adel Khorramrouz (Rutgers University PhD, 2024-Present)
+* Noah Carver (Rutgers University PhD, 2025-Present)
+* Anushka Sidkar (Rutgers Interdisciplinary Honors Thesis, 2026-Present)
 * Kuleen Sasse (JHU BS, 2023-2024)
 * Alex Mei (UCSB BS/MS, 2022-2023)
 * Anisha Kabir (UCSB BS, 2022, CRA Outstanding Undergraduate Researcher Award Honorable Mention)
