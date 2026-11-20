@@ -4,6 +4,10 @@ title: "Papers"
 permalink: /publications/
 author_profile: true
 ---
+- Adel Khorramrouz, Yi-Chia Wang, **Sharon Levy**. "Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs". (2026) [[paper]](https://arxiv.org/pdf/2610.19587)
+- Adel Khorramrouz and **Sharon Levy**. "Characterizing Selective Refusal Bias in Large Language Models". Findings of the Conference of the Association for Computational Linguistics (ACL 2026) [[paper]](https://aclanthology.org/2026.findings-acl.550/)
+- Fatima Jahara, Mark Dredze, **Sharon Levy**. "Evaluating Implicit Biases in LLM Reasoning through Logic Grid Puzzles". Findings of the Conference of the Association for Computational Linguistics (ACL 2026) [[paper]](https://aclanthology.org/2026.findings-acl.571/)
+- Jen-tse Huang, Jiantong Qin, Xueli Qiu, **Sharon Levy**, Michelle R Kaufman, Mark Dredze. "Knowing But Not Doing: Convergent Morality and Divergent Action in LLMs". (2026) [[paper]](https://arxiv.org/pdf/2601.07972)
 - Kuleen Sasse, Carlos Alejandro Aguirre, Isabel Cachola, **Sharon Levy**, Mark Dredze. "Making FETCH! Happen: Finding Emergent Dog Whistles Through Common Habitats" In Proceedings of Conference of the Association for Computational Linguistics (ACL 2025) [[paper]](https://aclanthology.org/2025.acl-long.284/)
 - Iain Xie Weissburg, Sathvika Anand, **Sharon Levy**, Haewon Jeong. "LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025) [[paper]](https://aclanthology.org/2025.findings-naacl.314/)
 - **Sharon Levy**, Tahilin Sanchez Karver, William D. Adler, Michelle R. Kaufman, Mark Dredze. "Evaluating Biases in Context-Dependent Sexual and Reproductive Health Questions". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [[paper]](https://aclanthology.org/2024.findings-emnlp.332/)
