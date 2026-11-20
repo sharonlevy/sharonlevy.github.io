@@ -13,12 +13,14 @@ I am an Assistant Professor at [Rutgers University Computer Science](https://www
 Previously, I was a postdoctoral fellow at the Center for Language and Speech Processing (CLSP) at Johns Hopkins University, advised by Mark Dredze and Michelle Kaufman. I obtained my Ph.D. from the University of California Santa Barbara, where I worked with Professor William Wang. 
 
 
-**Note: I will not be recruiting new PhD students during the 2025-2026 academic year.** 
+**Note: I will not be recruiting new PhD students during the 2026-2027 academic year.** 
 
 
 
 ## Selected Publications
-- Iain Xie Weissburg, Sathvika Anand, **Sharon Levy**, Haewon Jeong. "LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025) [[paper]](https://arxiv.org/pdf/2410.14012)
+- Adel Khorramrouz and **Sharon Levy**. "Characterizing Selective Refusal Bias in Large Language Models". Findings of the Conference of the Association for Computational Linguistics (ACL 2026) [[paper]](https://aclanthology.org/2026.findings-acl.550/)
+- Fatima Jahara, Mark Dredze, **Sharon Levy**. "Evaluating Implicit Biases in LLM Reasoning through Logic Grid Puzzles". Findings of the Conference of the Association for Computational Linguistics (ACL 2026) [[paper]](https://aclanthology.org/2026.findings-acl.571/)
+- Iain Xie Weissburg, Sathvika Anand, **Sharon Levy**, Haewon Jeong. "LLMs are Biased Teachers: Evaluating LLM Bias in Personalized Education". In Proceedings of Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025) [[paper]](https://aclanthology.org/2025.findings-naacl.314/)
 - **Sharon Levy**, Tahilin Sanchez Karver, William D. Adler, Michelle R. Kaufman, Mark Dredze. "Evaluating Biases in Context-Dependent Sexual and Reproductive Health Questions". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [[paper]](https://aclanthology.org/2024.findings-emnlp.332/)
 - **Sharon Levy**, William D. Adler, Tahilin Sanchez Karver, Mark Dredze, Michelle R. Kaufman. "Gender Bias in Decision-Making with Large Language Models: A Study of Relationship Conflicts". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2024) [[paper]](https://aclanthology.org/2024.findings-emnlp.331/)
 - **Sharon Levy**, Neha Anna John, Ling Liu, Yogarshi Vyas, Jie Ma, Yoshinari Fujinuma, Miguel Ballesteros, Vittorio Castelli, Dan Roth. "Comparing Biases and the Impact of Multilingual Training across Multiple Languages". In Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), Long Paper, ACL.[[paper]](https://arxiv.org/abs/2305.11242)
